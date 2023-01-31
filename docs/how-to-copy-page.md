@@ -1,5 +1,3 @@
-# How to Copy Page
-
 You can copy a ClickFunnels Classic (v1) page by following these steps:
 
 1. Open the page you want to copy in ClickFunnels.
