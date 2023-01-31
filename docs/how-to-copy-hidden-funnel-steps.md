@@ -1,3 +1,0 @@
-# Copy Funnel
-
-lorem ipsum.
