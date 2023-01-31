@@ -4,7 +4,6 @@ You can copy a ClickFunnels Classic (v1) page by following these steps:
 2. Open the ClickFunnels Copy Page extension.
 3. Click the Copy Page button.
 4. Open a page inside of the ClickFunnels 2.0 page editor.
-- Supported are Funnel Steps and single Pages. 
 5. Click the Paste Page button.
 6. The page will reload and you will see the copied page.
 7. Review the page and make any changes you need to.
